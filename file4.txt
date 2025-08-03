@@ -1,1 +1,1 @@
-
+devops is a culture that collaborats development team with operation team.
