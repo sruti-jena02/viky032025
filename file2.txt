@@ -1,6 +1,4 @@
-
-
-[A[Asebang line is the first line of any shell script file.
+sebang line is the first line of any shell script file.
 We can add other line of codes post sebang line
 We can integrate sql query inside shell script
 We can add if control structure.
