@@ -1,0 +1,1 @@
+Build is nothing but a package which is created by maven tool.
